@@ -1,7 +1,7 @@
 {
-  "name": "mashlib",
-  "version": "2.1.0",
-  "description": "Data mashup library",
+  "name": "mashlib-dev",
+  "version": "0.0.1",
+  "description": "Solid data browser — dev skin",
   "main": "dist/mashlib.js",
   "files": [
     "dist/",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SolidOS/mashlib.git"
+    "url": "git+https://github.com/mashlib/mashlib-dev.git"
   },
   "keywords": [
     "solid",
@@ -46,9 +46,9 @@
   "author": "Tim Berners-Lee <timbl@mit.edu>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/solidos/mashlib/issues"
+    "url": "https://github.com/mashlib/mashlib-dev/issues"
   },
-  "homepage": "https://github.com/solidos/mashlib",
+  "homepage": "https://github.com/mashlib/mashlib-dev",
   "dependencies": {
     "rdflib": "^2.3.5",
     "solid-logic": "^4.0.2",

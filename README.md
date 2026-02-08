@@ -1,6 +1,6 @@
-# Solid-compatible data mashup library and Databrowser
+# mashlib-dev
 
-[![NPM Package](https://img.shields.io/npm/v/mashlib.svg)](https://www.npmjs.com/package/mashlib)
+Dev skin for the Solid data browser. Forked from [SolidOS/mashlib](https://github.com/SolidOS/mashlib).
 
 The mashlib library (`mashlib.js`) is a solid-compatible code library of application-level functionality for the world of Solid. It compiles all of the following repositories into what we know as `mashlib.js`:
 - [**solid-logic**](https://github.com/solidos/solid-logic) — core business logic of SolidOS
