@@ -1,6 +1,6 @@
 {
   "name": "mashlib-dev",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Solid data browser — dev skin",
   "main": "dist/mashlib.js",
   "files": [
@@ -44,7 +44,7 @@
     "browser"
   ],
   "author": "Tim Berners-Lee <timbl@mit.edu>",
-  "license": "MIT",
+  "license": "AGPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/mashlib/mashlib-dev/issues"
   },

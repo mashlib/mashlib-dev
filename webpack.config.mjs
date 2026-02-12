@@ -23,8 +23,7 @@ const common = {
     target: 'web',
     output: {
       path: path.resolve(process.cwd(), 'dist'),
-      // Use /mashlib/dist/ for GitHub Pages, / for localhost
-      publicPath: process.env.PUBLIC_PATH || '/',
+      publicPath: 'auto',
       library: {
         name: 'Mashlib',
         type: 'umd'
